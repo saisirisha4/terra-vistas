@@ -1,0 +1,6 @@
+{
+  "name": "TERRA VISTAS",
+  "description": "Smart group-travel platform: Travel Together. Pay Less. Connect with travelers and unlock group travel savings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
